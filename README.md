@@ -1,5 +1,5 @@
 Prosty solver zagadek typu mniejsze-wieksze, na przyklad takiej:
-![](https://pl.forum.grepolis.com/index.php?attachments/plansza_2-png.14990/)
+![](https://github.com/pmpm2000/mniejszewieksze/blob/main/plansza_2.png?raw=true)
 
 ### Input
 Do rozwiazania zagadki potrzebne sa 3 pliki tekstowe. 
